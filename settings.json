@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "ShanghaiyanSmp.aternos.me",
+    "port": 13873,
+    "version": "26.1.2 (22)",
     "try-creative": false
   },
   "position": {
